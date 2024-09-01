@@ -1,4 +1,4 @@
-Employee Management System
+Employee Management System(Code is present in master branch)
 ---------------------------------Project Overview---------------------------------------
 The Employee Management System is a Java-based application designed to manage employee records efficiently. It allows users to perform CRUD (Create, Read, Update, Delete) operations on an employee database, providing a simple and intuitive interface for managing employee data.
 ----------------------Features------------------------------------------------------
@@ -15,7 +15,7 @@ JDBC: Java Database Connectivity for connecting and interacting with the SQL dat
 Java Swing: For creating the graphical user interface (GUI) of the application.
 ----------------------------------------------------------------------------------------------
 ------------------------------How to Run the Project------------------------------------------
-Clone the repository.
+Clone the repository(from master branch).
 Set up the SQL database and import the provided schema.
 Open the project in your preferred Java IDE.
 Update the database connection settings in the project files.
