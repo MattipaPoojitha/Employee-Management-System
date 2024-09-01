@@ -1,5 +1,5 @@
 Employee Management System
-Project Overview
+---------------------------------Project Overview---------------------------------------
 The Employee Management System is a Java-based application designed to manage employee records efficiently. It allows users to perform CRUD (Create, Read, Update, Delete) operations on an employee database, providing a simple and intuitive interface for managing employee data.
 ----------------------Features------------------------------------------------------
 1.Add New Employee: Create new employee records with essential details such as name, ID, department, and salary.
